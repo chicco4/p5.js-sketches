@@ -7,3 +7,4 @@
 - getting started: https://p5js.org/get-started/
 - learn: https://p5js.org/learn/
 - examples: https://p5js.org/examples/
+- reference: https://p5js.org/reference/
