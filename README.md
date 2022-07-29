@@ -1,4 +1,4 @@
-## p5.js sketchs
+## p5.js sketches
 
 #### links to check:
 
