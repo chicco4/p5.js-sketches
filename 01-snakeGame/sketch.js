@@ -10,7 +10,6 @@ function setup() {
   createCanvas(500, 500);
   s = new Snake();
   frameRate(5);
-  food = createVector(random(width), random(height));
   pickLocation();
 }
 
